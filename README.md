@@ -13,5 +13,5 @@ I used GloVe tool for embedding each word in data. So you need "glove.6B.200d.tx
 
 ## how to run 
 
-After downloading the data, you should first run image_preprocess-vgg.py to create features.pkl file.
-Then you can run run.ipynb to generate caption for test images. By changing image_index, you can test different images
+After downloading the data, you should first run "image_preprocess-vgg.py" to create "features.pkl" file.
+Then you can run "run.ipynb" to generate caption for test images. By changing image_index, you can test different images.
